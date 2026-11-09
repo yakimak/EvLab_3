@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+
+_report.tex
+_body.tex
+_report.aux
+_report.log
+_report.out
+_report.toc

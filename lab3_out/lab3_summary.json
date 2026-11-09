@@ -1,0 +1,16 @@
+{
+  "variant": 4,
+  "track": "A",
+  "runs": 20,
+  "best_run": 0,
+  "hv_mean": 12654.986001635909,
+  "hv_std": 246.18313720206098,
+  "points_mean": 80.0,
+  "min_energy": 49.67565620233235,
+  "min_discomfort": 0.0,
+  "weighted_points": 15,
+  "reference_point": [
+    120.0,
+    200.0
+  ]
+}
